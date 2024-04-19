@@ -1,0 +1,6 @@
+C:\Users\Ahmed ashraf\Desktop\cat تقديم\تاسكاتCat\تاسك العيد\Tasks\Tasks\Task02\bin\Debug\Task02.exe.config
+C:\Users\Ahmed ashraf\Desktop\cat تقديم\تاسكاتCat\تاسك العيد\Tasks\Tasks\Task02\bin\Debug\Task02.exe
+C:\Users\Ahmed ashraf\Desktop\cat تقديم\تاسكاتCat\تاسك العيد\Tasks\Tasks\Task02\bin\Debug\Task02.pdb
+C:\Users\Ahmed ashraf\Desktop\cat تقديم\تاسكاتCat\تاسك العيد\Tasks\Tasks\Task02\obj\Debug\Task02.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed ashraf\Desktop\cat تقديم\تاسكاتCat\تاسك العيد\Tasks\Tasks\Task02\obj\Debug\Task02.exe
+C:\Users\Ahmed ashraf\Desktop\cat تقديم\تاسكاتCat\تاسك العيد\Tasks\Tasks\Task02\obj\Debug\Task02.pdb

@@ -1,0 +1,13 @@
+C:\Users\Ahmed ashraf\Desktop\cat تقديم\تاسكاتCat\تاسك العيد\Tasks\Tasks\Task06\bin\Debug\Task06.exe.config
+C:\Users\Ahmed ashraf\Desktop\cat تقديم\تاسكاتCat\تاسك العيد\Tasks\Tasks\Task06\bin\Debug\Task06.exe
+C:\Users\Ahmed ashraf\Desktop\cat تقديم\تاسكاتCat\تاسك العيد\Tasks\Tasks\Task06\bin\Debug\Task06.pdb
+C:\Users\Ahmed ashraf\Desktop\cat تقديم\تاسكاتCat\تاسك العيد\Tasks\Tasks\Task06\obj\Debug\Task06.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed ashraf\Desktop\cat تقديم\تاسكاتCat\تاسك العيد\Tasks\Tasks\Task06\obj\Debug\Task06.exe
+C:\Users\Ahmed ashraf\Desktop\cat تقديم\تاسكاتCat\تاسك العيد\Tasks\Tasks\Task06\obj\Debug\Task06.pdb
+C:\Users\Ahmed ashraf\Desktop\Tasks\Task06\bin\Debug\Task06.exe.config
+C:\Users\Ahmed ashraf\Desktop\Tasks\Task06\bin\Debug\Task06.exe
+C:\Users\Ahmed ashraf\Desktop\Tasks\Task06\bin\Debug\Task06.pdb
+C:\Users\Ahmed ashraf\Desktop\Tasks\Task06\obj\Debug\Task06.csproj.AssemblyReference.cache
+C:\Users\Ahmed ashraf\Desktop\Tasks\Task06\obj\Debug\Task06.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed ashraf\Desktop\Tasks\Task06\obj\Debug\Task06.exe
+C:\Users\Ahmed ashraf\Desktop\Tasks\Task06\obj\Debug\Task06.pdb
